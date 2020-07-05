@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Saving general use colors -->
+    <color name="red">#E5342B</color>
+    <color name="apple">#FF2D2D</color>
+    <color name="rose">#E80004</color>
+    <color name="candy">#FF0000</color>
+    <color name="crimson">#800000</color>
+    <color name="scarlet">#A02019</color>
+    <color name="ruby">#AB0000</color>
+    <color name="black">#111111</color>
+    <color name="coal">#494949</color>
+    <color name="carbon">#212121</color>
+    <color name="white">#EDECE6</color>
+    <color name="snow">#FFFFFF</color>
+    <color name="ashe">#BABABA</color>
+    <color name="cream">#D7AF54</color>
+</resources>

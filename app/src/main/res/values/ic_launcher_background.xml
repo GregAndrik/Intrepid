@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Customizing the background color of the application's launcher -->
+    <color name="ic_launcher_background">@color/scarlet</color>
+</resources>

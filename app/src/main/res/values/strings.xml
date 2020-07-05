@@ -1,0 +1,27 @@
+<resources>
+    <!-- Creating strings to be used in text messages -->
+    <string name="app_name">Intrepid</string>
+    <string name="audio_recorder">Audio Recorder</string>
+    <string name="speech_to_text">Speech To Text</string>
+    <string name="voice_commands">Voice Commands</string>
+    <string name="hold_the_mic_and_record">Hold the mic and record!</string>
+    <string name="recording">Recording…</string>
+    <string name="listening">Listening…</string>
+    <string name="choose_a_voice_profile">Choose a voice profile!</string>
+    <string name="hold_the_mic_and_speak">Hold the mic and speak!</string>
+    <string name="hold_the_mic_and_call_an_app">Hold the mic and call an app</string>
+    <string name="sorry_i_did_not_catch_that">Sorry, i did not catch that…</string>
+    <string name="input_here">Input here&#8230;</string>
+    <string name="speech_input">Speech Input</string>
+    <string name="speech_to_web">Speech To Web</string>
+    <string name="type_a_name_for_the_audio_clip">Type a name for the audio clip</string>
+    <string name="type_a_text_file_name">Type a text file name</string>
+    <string name="normal_pitch">Normal Pitch</string>
+    <string name="high_pitch">High Pitch</string>
+    <string name="low_pitch">Low Pitch</string>
+    <string name="play">Play</string>
+    <string name="forward">Forward</string>
+    <string name="rewind">Rewind</string>
+    <string name="logo">Logo</string>
+    <string name="save">Save</string>
+</resources>
